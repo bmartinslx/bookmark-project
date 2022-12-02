@@ -16,4 +16,4 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Alt text](images/bookmark.png)
+![Alt text](images/bookmark.jpg)
